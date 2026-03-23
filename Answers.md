@@ -1,4 +1,4 @@
-Quiz Part One:
+Quiz Part One Python Basics:
 Q1: A
 Q2: B
 Q3: D
@@ -20,7 +20,7 @@ Q18: B
 Q19: D
 Q20: A
 
-Quiz Part Two:
+Quiz Part Two Code Tracing:
 Q1: print(result) = 22
 Q2: print(sum) = 6
 Q3: status = 5
@@ -36,5 +36,3 @@ Q12: print(result) = 10
 Q13: print(count) = 4
 Q14: print(total) = 23
 Q15: print(product) = 24
-
-Slack to Kris and Paul when done

@@ -24,8 +24,8 @@ Quiz Part Two:
 Q1: print(result) = 22
 Q2: print(sum) = 6
 Q3: status = 5
-Q4:
-Q5:
+Q4: print(total) = 30
+Q5: print(y) = 5
 Q6:
 Q7:
 Q8:

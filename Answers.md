@@ -17,8 +17,8 @@ Q15: B
 Q16: A
 Q17: D
 Q18: B
-Q19:
-Q20:
+Q19: D
+Q20: A
 
 Quiz Part Two:
 Q1: 22

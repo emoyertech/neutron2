@@ -27,14 +27,14 @@ Q3: status = 5
 Q4: print(total) = 30
 Q5: print(y) = 5
 Q6: print(count) = 2
-Q7: 
+Q7: print(count) = 4, 8
 Q8: print(result) = 12
 Q9: print(val) = 10
 Q10: print(total) = 4
-Q11:
-Q12:
-Q13:
-Q14:
-Q15:
+Q11: print(x) = 15
+Q12: print(result) = 10
+Q13: print(count) = 4
+Q14: print(total) = 23
+Q15: print(product) = 24
 
 Slack to Kris and Paul when done

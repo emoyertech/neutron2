@@ -2,10 +2,10 @@ Quiz Part One:
 Q1: A
 Q2: B
 Q3: D
-Q4:
-Q5:
-Q6:
-Q7:
+Q4: C
+Q5: C
+Q6: B
+Q7: A
 Q8:
 Q9:
 Q10:
@@ -21,8 +21,8 @@ Q19:
 Q20:
 
 Quiz Part Two:
-Q1:
-Q2:
+Q1: 22
+Q2: 
 Q3:
 Q4:
 Q5:

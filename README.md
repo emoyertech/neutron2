@@ -6,7 +6,7 @@
 - `git add .`
 - `git commit -m "empty file."`
 - `git push`
-- Edit the file suing vscode and record all 35 answers to your questions.
+- Edit the file using vscode and record all 35 answers to your questions.
 - `git add .`
 - `git commit -m "quests 1 - n."` _replace N with how many questiosn you've answered.
 - `git push`

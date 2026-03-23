@@ -26,11 +26,11 @@ Q2: print(sum) = 6
 Q3: status = 5
 Q4: print(total) = 30
 Q5: print(y) = 5
-Q6:
-Q7:
-Q8:
-Q9:
-Q10:
+Q6: print(count) = 2
+Q7: 
+Q8: print(result) = 12
+Q9: print(val) = 10
+Q10: print(total) = 4
 Q11:
 Q12:
 Q13:

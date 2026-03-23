@@ -1,7 +1,7 @@
 Quiz Part One:
-Q1:
-Q2:
-Q3:
+Q1: A
+Q2: B
+Q3: D
 Q4:
 Q5:
 Q6:

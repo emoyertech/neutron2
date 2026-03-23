@@ -21,9 +21,9 @@ Q19: D
 Q20: A
 
 Quiz Part Two:
-Q1: 22
-Q2: 
-Q3:
+Q1: print(result) = 22
+Q2: print(sum) = 6
+Q3: status = 5
 Q4:
 Q5:
 Q6:
